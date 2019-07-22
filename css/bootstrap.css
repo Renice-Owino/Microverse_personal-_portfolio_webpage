@@ -169,7 +169,7 @@ img {
 .projects-section {
   text-align: center;
   padding: 10rem 2rem;
-  background: var(--main-blue);
+  background: rgb(180, 74, 74);
 }
 
 .projects-section-header {
